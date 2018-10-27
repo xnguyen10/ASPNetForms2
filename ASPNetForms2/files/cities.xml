@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cities>
+  <City>
+    <CityId>101</CityId>
+    <CityName>Albany, NY</CityName>
+  </City>
+  <City>
+    <CityId>102</CityId>
+    <CityName>Baton Rouge</CityName>
+  </City>
+  <City>
+    <CityId>103</CityId>
+    <CityName>Bellueve, WA</CityName>
+  </City>
+  <City>
+    <CityId>104</CityId>
+    <CityName>Bethlehem</CityName>
+  </City>
+  <City>
+    <CityId>105</CityId>
+    <CityName>Burlington</CityName>
+  </City>
+  <City>
+    <CityId>106</CityId>
+    <CityName>Burlington</CityName>
+  </City>
+  <City>
+    <CityId>107</CityId>
+    <CityName>Calgary</CityName>
+  </City>
+  <City>
+    <CityId>108</CityId>
+    <CityName>Chesapeake</CityName>
+  </City>
+  <City>
+    <CityId>109</CityId>
+    <CityName>Chicago</CityName>
+  </City>
+  <City>
+    <CityId>110</CityId>
+    <CityName>Cincinnati</CityName>
+  </City>
+</Cities>
