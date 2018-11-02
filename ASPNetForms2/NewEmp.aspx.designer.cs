@@ -238,24 +238,6 @@ namespace ASPNetForms2 {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorARE;
         
         /// <summary>
-        /// txtPreviousSiemensEmail control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtPreviousSiemensEmail;
-        
-        /// <summary>
-        /// RegularExpressionValidatorSiemensEmail control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RegularExpressionValidator RegularExpressionValidatorSiemensEmail;
-        
-        /// <summary>
         /// txtWorkStartDate control.
         /// </summary>
         /// <remarks>
@@ -283,13 +265,13 @@ namespace ASPNetForms2 {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorWorkStartDate;
         
         /// <summary>
-        /// radPCType control.
+        /// ddlPCType control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList radPCType;
+        protected global::System.Web.UI.WebControls.DropDownList ddlPCType;
         
         /// <summary>
         /// txtOtherHardware control.
@@ -301,112 +283,13 @@ namespace ASPNetForms2 {
         protected global::System.Web.UI.WebControls.TextBox txtOtherHardware;
         
         /// <summary>
-        /// radDeskphone control.
+        /// ddlDeskphone control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList radDeskphone;
-        
-        /// <summary>
-        /// txtDirPath1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDirPath1;
-        
-        /// <summary>
-        /// ddlLocation1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlLocation1;
-        
-        /// <summary>
-        /// radReadWrite1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList radReadWrite1;
-        
-        /// <summary>
-        /// txtDirPath2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDirPath2;
-        
-        /// <summary>
-        /// ddlLocation2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlLocation2;
-        
-        /// <summary>
-        /// radReadWrite2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList radReadWrite2;
-        
-        /// <summary>
-        /// txtDirPath3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDirPath3;
-        
-        /// <summary>
-        /// ddlLocation3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlLocation3;
-        
-        /// <summary>
-        /// radReadWrite3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList radReadWrite3;
-        
-        /// <summary>
-        /// btnReset control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnReset;
-        
-        /// <summary>
-        /// btnSubmit control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmit;
+        protected global::System.Web.UI.WebControls.DropDownList ddlDeskphone;
         
         /// <summary>
         /// btnContinue control.
